@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the author of Kongres futurologiczny?",
+    "expected_keywords": ["lem", "stanisław", "stanislaw"]
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the protagonist or narrator mentioned in the book?",
+    "expected_keywords": ["ijon tichy", "tichy", "ijon", "t1chy", "ti chy", "tich"]
+  },
+  {
+    "id": 3,
+    "question": "What is the title of the book?",
+    "expected_keywords": ["kongres futurologiczny", "kongres"]
+  },
+  {
+    "id": 4,
+    "question": "Name one catastrophe type discussed at the congress.",
+    "expected_keywords": [
+      "atmosferycznej",
+      "ekologicznej",
+      "energetycznej",
+      "żywnościowej",
+      "zywnosciowej",
+      "urbanistycznej",
+      "atmosferyczna",
+      "ekologiczna"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Are the congress proceedings public or secret?",
+    "expected_keywords": ["tajne", "secret", "confidential", "sekretne","tajny"]
+  },
+  {
+    "id": 6,
+    "question": "Which genres best describe the book's tone (e.g., science fiction, satire)?",
+    "expected_keywords": [
+      "science fiction",
+      "sci-fi",
+      "fantastyka",
+      "satire",
+      "satirical",
+      "futurology",
+      "futurologiczny"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Name one satirical profession or invention mentioned in the congress materials.",
+    "expected_keywords": [
+      "inwigilator",
+      "zakazywacz",
+      "rozdzielacz",
+      "zatykacz",
+      "inwigilator matrymonialny",
+      "przepustki kopulacyjne",
+      "przepustka kopulacyjna"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How does Lem use the congress to critique scientific conferences or professionalization?",
+    "expected_keywords": [
+      "satir",
+      "krit",
+      "krytyk",
+      "konferenc",
+      "profesjonaliz",
+      "gości",
+      "guests",
+      "conference"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Identify a philosophical question raised in the book related to futurology or prediction limits.",
+    "expected_keywords": [
+      "futurolog",
+      "prediction",
+      "predykcj",
+      "ograniczeni",
+      "ethic",
+      "etycz"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Does the book warn against or advocate applying predictive science to society? Give a short supporting snippet if available.",
+    "expected_keywords": [
+      "ostrzega",
+      "warn",
+      "przestrzega",
+      "popiera",
+      "advocate",
+      "advocates",
+      "oppose"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "W jakim hotelu odbywał się Kongres?",
+    "expected_keywords": ["Hilton", "hilton"]
+  },
+  {
+    "id": 12,
+    "question": "Jakie metody zahamowania ekplozji demograficznej zaproponował Norman Youhas z delegacji USA?",
+    "expected_keywords": ["zniechęcanie perswazyjne", "policyjne", "deerotyzację", "przymusową celibatyzację",
+    "onanizację", "subordymację", "kastrację", "deerotyzacja", "przymusowa celibatyzacja",
+      "onanizacja", "subordymacja", "kastracja"]
+  },
+  {
+    "id": 13,
+    "question": "Kim był profesor Dringenbaum?",
+    "expected_keywords": ["katastrof", "alarmist", "futurolog"]
+  },
+  {
+    "id": 14,
+    "question": "Jaką rolę pełnił Trottelreiner?",
+    "expected_keywords": ["opiekun", "towarzysz", "prowadził", "kongres", "tłumacz"]
+  },
+  {
+    "id": 15,
+    "question": "Jakie było pierwsze dziwne zjawisko, które Tichy zauważył w hotelu?",
+    "expected_keywords": ["przepustki", "kopulacyjne", "hotel", "biurokr", "absurd"]
+  },
+  {
+    "id": 16,
+    "question": "Co spowodowało chaos w trakcie obrad kongresu?",
+    "expected_keywords": ["atak", "chemicz", "halucyn", "gaz", "zamieszki", "chaos"]
+  },
+  {
+    "id": 17,
+    "question": "Dlaczego Tichy kwestionuje własne postrzeganie rzeczywistości?",
+    "expected_keywords": ["iluzj", "halucyn", "postrzegani", "chemikali", "rzeczywistość", "wątpliwość"]
+  },
+  {
+    "id": 18,
+    "question": "Co symbolizuje miasto Nounas, w którym rozgrywa się część akcji?",
+    "expected_keywords": ["nounas", "miasto", "kontrol", "psychochem", "fasadow", "propagand"]
+  },
+  {
+    "id": 19,
+    "question": "Kim był doktor Youhas i jaką ideę przedstawiał?",
+    "expected_keywords": ["naukowiec", "zawod", "rozdzielacz", "specjalizacj"]
+  }
+]

@@ -1,0 +1,9 @@
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+pypdf
+openai
+python-dotenv
+chromadb
+pytest
