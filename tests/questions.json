@@ -132,7 +132,7 @@
   {
     "id": "L-027*",
     "question": "Przedstaw harmonogram transferu Lewandowskiego do Barcelony w lipcu 2022 roku na podstawie artykułu.",
-    "expected_keywords": []
+    "expected_keywords": ["transfer", "Barcelon"]
   },
   {
     "id": "L-028**",
