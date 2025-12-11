@@ -1,131 +1,167 @@
 [
   {
-    "id": 1,
-    "question": "Who is the author of Kongres futurologiczny?",
-    "expected_keywords": ["lem", "stanisław", "stanislaw"]
+    "id": "L-001",
+    "question": "W jakim mieście urodził się Robert Lewandowski?",
+    "expected_keywords": ["warszaw"]
   },
   {
-    "id": 2,
-    "question": "What is the name of the protagonist or narrator mentioned in the book?",
-    "expected_keywords": ["tich", "ijon"]
+    "id": "L-002",
+    "question": "Kto był pierwszym trenerem Roberta Lewandowskiego w Varsovii Warszawa?",
+    "expected_keywords": ["Marek Siwecki", "siwiecki"]
   },
   {
-    "id": 3,
-    "question": "What is the title of the book?",
-    "expected_keywords": ["kongres futurologiczny"]
+    "id": "L-003",
+    "question": "W jakim serialu MCU z 2025 roku pojawia się nazwisko Lewandowskiego?",
+    "expected_keywords": ["Ironheart"]
   },
   {
-    "id": 4,
-    "question": "Podaj nazwę jednego rodzaju katastrofy omawianego na kongresie.",
-    "expected_keywords": ["atmosferyczn", "ekologiczn", "energetyczn", "żywnościow", "zywnosciow", "urbanistyczn"]
+    "id": "L-004",
+    "question": "Jaka była kwota opłaty stałej za transfer Lewandowskiego do FC Barcelony?",
+    "expected_keywords": ["45 milionów", "45 mln", "45 000 000", "45000000"]
   },
   {
-    "id": 5,
-    "question": "Czy obrady kongresu są publiczne czy tajne?",
-    "expected_keywords": ["tajn", "secret", "confidential", "sekret"]
+    "id": "L-005",
+    "question": "Z jaką marką produkującą izotoniki Lewandowski nawiązał współpracę ambasadorską w 2025 roku?",
+    "expected_keywords": ["DrWitt."]
   },
   {
-    "id": 6,
-    "question": "Which genres best describe the book's tone?",
-    "expected_keywords": ["fiction", "sci-fi", "fantasty", "satir","futurolog", "satyr"]
+    "id": "L-006",
+    "question": "W którym roku Lewandowski obronił pracę magisterską?",
+    "expected_keywords": ["2020"]
   },
   {
-    "id": 7,
-    "question": "Podaj nazwę jednego satyrycznego zawodu lub wynalazku wspomnianego w materiałach kongresowych.",
-    "expected_keywords": ["inwigil", "zakazywa", "rozdziel", "zatyka", "matrymonialn", "przepustk", "kopulacyjn"]
+    "id": "L-007",
+    "question": "Który trener powołał Lewandowskiego do kadry w sierpniu 2025 roku, wznawiając jego karierę reprezentacyjną?",
+    "expected_keywords": ["Jan Urban", "Urban"]
   },
   {
-    "id": 8,
-    "question": "Jak Lem wykorzystuje kongres do krytyki konferencji naukowych lub nadmiernej profesjonalizacji?",
-    "expected_keywords": ["saty", "satyry", "krytyk", "konferenc", "profesjonaliz", "biurokr", "specjaliz"]
-
+    "id": "L-008",
+    "question": "Przeciwko której drużynie Lewandowski strzelił swojego pierwszego gola w seniorskiej reprezentacji Polski?",
+    "expected_keywords": ["San Marino"]
   },
   {
-    "id": 9,
-    "question": "Podaj przykład filozoficznego pytania postawionego w książce dotyczącego futurologii lub ograniczeń przewidywania przyszłości.",
-    "expected_keywords": ["futurolog", "przewidy", "prognoz", "granic", "kontrolować przyszłość"]
-
+    "id": "L-009",
+    "question": "Jaką markę rowerów Lewandowski promuje jako ambasador od 2023 roku?",
+    "expected_keywords": ["Storm"]
   },
   {
-    "id": 10,
-    "question": "Czy książka ostrzega przed stosowaniem nauk przewidywania w społeczeństwie, czy je popiera? Uzasadnij krótko, jeśli to możliwe.",
-    "expected_keywords": ["ostrzeg", "przestrzeg", "niebezpiecz", "zagro", "społecz", "spolecz", "prognoz"]
-
+    "id": "L-010",
+    "question": "Ile bramek strzelił Robert Lewandowski w sezonie Bundesligi 2020/2021, ustanawiając nowy rekord?",
+    "expected_keywords": ["41"]
   },
   {
-    "id": 11,
-    "question": "W jakim hotelu odbywał się Kongres?",
-    "expected_keywords": ["hilton"]
+    "id": "L-011",
+    "question": "Jakie wydarzenia doprowadziły do wpisania Roberta Lewandowskiego do księgi rekordów Guinnessa po meczu z Wolfsburgiem w 2015 roku?",
+    "expected_keywords": ["9 minut", "hat trick", "najszybsze 4 i 5 bramek", "zmiennik z 5 golami"]
   },
   {
-    "id": 12,
-    "question": "Jakie metody zahamowania ekplozji demograficznej zaproponował Norman Youhas z delegacji USA?",
-    "expected_keywords": ["zniechec", "zniechęc", "perswaz", "policyjn", "deerotyz", "celibat", "onaniz", "subordym", "kastr"]
+    "id": "L-012",
+    "question": "Jakie trofea zdobył Lewandowski z FC Barceloną w sezonie 2024/2025?",
+    "expected_keywords": ["mistrzostwo Hiszpanii", "Puchar Króla", "Superpuchar Hiszpanii"]
   },
   {
-    "id": 13,
-    "question": "Kim był profesor Dringenbaum?",
-    "expected_keywords": ["katastrof", "alarmist", "futurolog"]
+    "id": "L-013",
+    "question": "Dlaczego transfer Lewandowskiego do Legii Warszawa nie doszedł do skutku w 2008 roku?",
+    "expected_keywords": ["klub nie zdecydował się na dalszą współpracę", "Trzeciak", "Arruabarren", "brak zainteresowania"]
   },
   {
-    "id": 14,
-    "question": "Jaką rolę pełnił Trottelreiner?",
-    "expected_keywords": ["opiekun", "towarzysz", "prowadzi", "kongres", "tłumacz", "tlumacz"]
+    "id": "L-014",
+    "question": "Jakie miejsce w historii klasyfikacji strzelców Ligi Mistrzów zajął Lewandowski, strzelając gola przeciwko Brest, i do kogo dołączył pod względem liczby zdobytych bramek?",
+    "expected_keywords": ["100", "101", "Messie", "Ronaldo"]
   },
   {
-    "id": 15,
-    "question": "Jakie było pierwsze dziwne zjawisko, które Tichy zauważył w hotelu?",
-    "expected_keywords": ["przepustk", "kopulacyjn", "hotel", "biurokr", "absurd"]
+    "id": "L-015",
+    "question": "Jak zakończył się konflikt prawny Lewandowskiego z Cezarym Kucharskim opisany w tekście?",
+    "expected_keywords": ["zatrzymany", "brak", "nie ma"]
   },
   {
-    "id": 16,
-    "question": "Co spowodowało chaos w trakcie obrad kongresu?",
-    "expected_keywords": ["atak", "chemicz", "halucyn", "gaz", "zamieszki"]
+    "id": "L-016",
+    "question": "Kiedy i przeciwko komu Lewandowski zdobył swojego pierwszego hat tricka w Primera División?",
+    "expected_keywords": ["Valenci", "29 kwietnia 2024", "29 IV 2024", "29.04.2025"]
   },
   {
-   "id": 17,
-    "question": "Dlaczego Tichy kwestionuje własne postrzeganie rzeczywistości?",
-    "expected_keywords": ["iluzj", "halucyn", "chemiczn", "tpliw"]
-
+    "id": "L-017",
+    "question": "Jaki rekord Gerda Müllera pobił Lewandowski w meczu przeciwko Sevilli w sezonie 2024/2025?",
+    "expected_keywords": ["366", "365"]
   },
   {
-    "id": 18,
-    "question": "Co symbolizuje miasto Nounas, w którym rozgrywa się część akcji?",
-    "expected_keywords": ["kontrol", "psychochemi", "fasadow", "propagand", "manipulacj"]
+    "id": "L-018",
+    "question": "Jakie sukcesy odniósł Robert Lewandowski podczas Klubowych Mistrzostw Świata w sezonie 2020/2021?",
+    "expected_keywords": ["Klubowe Mistrzostwo Świata", "dwa gole w półfinale", "2 gole w półfinale", "złot"]
   },
   {
-    "id": 19,
-    "question": "Kim był doktor Youhas i jaką ideę przedstawiał?",
-    "expected_keywords": ["naukow", "zawod", "rozdziel", "specjaliz"]
+    "id": "L-019",
+    "question": "Dlaczego Lewandowski nosił maskę ochronną w meczach przeciwko Barcelonie w 2015 roku?",
+    "expected_keywords": ["złaman", "Langerak", "Niemiec"]
   },
   {
-    "id": 20,
-    "question": "Co zobaczył Tichy po użyciu pierwszej fiolki z odhalucynatorem?",
-    "expected_keywords": ["trup", "zmar", "martw", "poleg", "ofiar", "cial", "ciał"]
+    "id": "L-020",
+    "question": "Jakie zarobki otrzymywał Lewandowski na początku swojej kariery w Delcie Warszawa, a jakie w Zniczu Pruszków?",
+    "expected_keywords": ["1000", "1 tys", "1 000", "1800", "1,8 tys", "1 800"]
   },
   {
-    "id": 21,
-    "question": "Jaki obraz świata ujawnił się po użyciu drugiej fiolki?",
-    "expected_keywords": ["nędz", "ruin", "ubóstwo", "łaman", "policyjn", "kontrol", "brud", "burosin", "spleśniał", "zniszcz"]
+    "id": "L-021",
+    "question": "Ile bramek w europejskich pucharach miał na koncie Lewandowski po meczu z Royal Antwerp FC we wrześniu 2023?",
+    "expected_keywords": ["100", "sto", "setn"]
   },
   {
-    "id": 22,
-    "question": "Co było najbardziej przerażającym odkryciem po trzeciej fiolce?",
-    "expected_keywords": ["zmutowan", "potwor", "zniekszta", "degeneracj", "prawdziw"]
+    "id": "L-022",
+    "question": "Jakie czynniki z okresu młodości wpłynęły na rozwój piłkarski Lewandowskiego według tekstu?",
+    "expected_keywords": ["tradycje sportowe rodziny", "judoka", "piłkarz", "siatkarka", "w ogrodzie"]
   },
   {
-    "id": 23,
-    "question": "Dlaczego władza stosowała warstwowe „zlisowanie” rzeczywistości chemicznej?",
-    "expected_keywords": ["kontrol", "spok", "ukry", "katastrof", "propagand"]
+    "id": "L-023",
+    "question": "Opisz chronologię wydarzeń związanych z funkcją kapitana reprezentacji Polski w 2025 roku.",
+    "expected_keywords": ["Zieliński", "Urban"]
   },
   {
-    "id": 24,
-    "question": "Co stało się z miastem po zdjęciu wszystkich warstw halucynacji?",
-    "expected_keywords": ["zniszczon", "skażon", "skazon", "ruin", "pustkowi", "opuszczon", "śnieg", "zima", "kłęby śmieci", "kupy szmat"]
+    "id": "L-024",
+    "question": "Dlaczego transfer Lewandowskiego do Realu Madryt w sezonie 2013/2014 nie doszedł do skutku, mimo podpisanego kontraktu?",
+    "expected_keywords": ["Bayern", "Monachium"]
   },
   {
-    "id": 25,
-    "question": "Jak zareagował Tichy na ostateczne odkrycie prawdziwej rzeczywistości?",
-    "expected_keywords": ["załaman", "zalaman", "zwątpi", "zwatpi", "przeraż", "przeraz", "nie wierzy", "szok"]
+    "id": "L-025",
+    "question": "Jak zmieniała się skuteczność Lewandowskiego w Barcelonie pod wodzą Hansiego Flicka w porównaniu do końcówki pracy Xaviego?",
+    "expected_keywords": ["odzyskał", "skuteczność", "10 goli", "100 goli"]
+  },
+  {
+    "id": "L-026",
+    "question": "W jaki sposób tekst opisuje postrzeganie Lewandowskiego w plebiscycie Złotej Piłki na przestrzeni lat 2016–2021?",
+    "expected_keywords": ["16", "odowłan", "2", "Messi", "niedoceniany"]
+  },
+  {
+    "id": "L-027*",
+    "question": "Przedstaw harmonogram transferu Lewandowskiego do Barcelony w lipcu 2022 roku na podstawie artykułu.",
+    "expected_keywords": []
+  },
+  {
+    "id": "L-028**",
+    "question": "Jaki był dokładny wynik meczu towarzyskiego z Ukrainą w czerwcu 2024 roku?",
+    "expected_keywords": ["No relevant information found."]
+  },
+  {
+    "id": "L-029**",
+    "question": "Jakim modelem samochodu jeździł Robert Lewandowski, gdy grał w Zniczu Pruszków?",
+    "expected_keywords": ["No relevant information found."]
+  },
+  {
+    "id": "L-030**",
+    "question": "Jaki jest dokładny adres domu Lewandowskiego w miejscowości Stanclewo?",
+    "expected_keywords": ["No relevant information found."]
+  },
+  {
+    "id": "L-031**",
+    "question": "Na jaką konkretnie ocenę Robert Lewandowski obronił pracę magisterską w 2020 roku?",
+    "expected_keywords": ["No relevant information found."]
+  },
+  {
+    "id": "L-032**",
+    "question": "W której minucie finału Ligi Mistrzów 2013 Lewandowski dostał żółtą kartkę?",
+    "expected_keywords": ["No relevant information found."]
+  },
+  {
+    "id": "L-033**",
+    "question": "Ile wynosiła premia za zdobycie mistrzostwa Polski z Lechem Poznań?",
+    "expected_keywords": ["No relevant information found."]
   }
 ]

@@ -6,7 +6,7 @@ from langchain_chroma import Chroma
 
 class ChromaDBManager:
     def __init__(self, persist_directory: str = None, collection_name: str = "books"):
-        self.persist_dir = persist_directory or os.getenv("CHROMA_PERSIST_DIR", "chroma_db")
+        self.persist_dir = persist_directory or os.getenv("CHROMA_PERSIST_DIR", "chroma_mati_db")
         self.collection_name = collection_name
 
     def build_or_load(self, docs: List[Document], embeddings):

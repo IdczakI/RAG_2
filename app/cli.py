@@ -1,6 +1,6 @@
 import os
 import argparse
-from .loader import PDFLoader
+from .loader import TextLoader
 from .splitter import SectionSplitter
 from .embeddings import EmbeddingManager
 from .chroma_manager import ChromaDBManager
@@ -10,7 +10,7 @@ from .orchestrator import QAOrchestrator
 
 
 def build_or_load_index(force_rebuild=False):
-    pdf_loader = PDFLoader()
+    txt_loader = TextLoader()
     splitter = SectionSplitter()
     emb_mgr = EmbeddingManager()
     chroma_mgr = ChromaDBManager()
@@ -22,7 +22,7 @@ def build_or_load_index(force_rebuild=False):
     if os.path.exists(chroma_mgr.persist_dir) and any(os.scandir(chroma_mgr.persist_dir)):
         vectordb = chroma_mgr.build_or_load([], emb_mgr.get_embedding_fn())
     else:
-        pages = pdf_loader.load_all_pdfs()
+        pages = txt_loader.load_all_txt()
         chunks = splitter.split_documents(pages)
         vectordb = chroma_mgr.build_or_load(chunks, emb_mgr.get_embedding_fn())
 
