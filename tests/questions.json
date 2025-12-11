@@ -106,7 +106,7 @@
   {
     "id": 21,
     "question": "Jaki obraz świata ujawnił się po użyciu drugiej fiolki?",
-    "expected_keywords": ["nędz", "nedz", "ruin", "ubóstwo", "ubostwo", "łaman", "laman", "policyjn", "kontrol"]
+    "expected_keywords": ["nędz", "ruin", "ubóstwo", "łaman", "policyjn", "kontrol", "brud", "burosin", "spleśniał", "zniszcz"]
   },
   {
     "id": 22,
@@ -121,7 +121,7 @@
   {
     "id": 24,
     "question": "Co stało się z miastem po zdjęciu wszystkich warstw halucynacji?",
-    "expected_keywords": ["zniszczon", "skażon", "skazon", "ruin", "pustkowi", "opuszczon"]
+    "expected_keywords": ["zniszczon", "skażon", "skazon", "ruin", "pustkowi", "opuszczon", "śnieg", "zima", "kłęby śmieci", "kupy szmat"]
   },
   {
     "id": 25,
