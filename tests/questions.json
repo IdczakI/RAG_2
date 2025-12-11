@@ -7,108 +7,60 @@
   {
     "id": 2,
     "question": "What is the name of the protagonist or narrator mentioned in the book?",
-    "expected_keywords": ["ijon tichy", "tichy", "ijon", "t1chy", "ti chy", "tich"]
+    "expected_keywords": ["tich", "ijon"]
   },
   {
     "id": 3,
     "question": "What is the title of the book?",
-    "expected_keywords": ["kongres futurologiczny", "kongres"]
+    "expected_keywords": ["kongres futurologiczny"]
   },
   {
     "id": 4,
-    "question": "Name one catastrophe type discussed at the congress.",
-    "expected_keywords": [
-      "atmosferycznej",
-      "ekologicznej",
-      "energetycznej",
-      "żywnościowej",
-      "zywnosciowej",
-      "urbanistycznej",
-      "atmosferyczna",
-      "ekologiczna"
-    ]
+    "question": "Podaj nazwę jednego rodzaju katastrofy omawianego na kongresie.",
+    "expected_keywords": ["atmosferyczn", "ekologiczn", "energetyczn", "żywnościow", "zywnosciow", "urbanistyczn"]
   },
   {
     "id": 5,
-    "question": "Are the congress proceedings public or secret?",
-    "expected_keywords": ["tajne", "secret", "confidential", "sekretne","tajny"]
+    "question": "Czy obrady kongresu są publiczne czy tajne?",
+    "expected_keywords": ["tajn", "secret", "confidential", "sekret"]
   },
   {
     "id": 6,
-    "question": "Which genres best describe the book's tone (e.g., science fiction, satire)?",
-    "expected_keywords": [
-      "science fiction",
-      "sci-fi",
-      "fantastyka",
-      "satire",
-      "satirical",
-      "futurology",
-      "futurologiczny"
-    ]
+    "question": "Which genres best describe the book's tone?",
+    "expected_keywords": ["fiction", "sci-fi", "fantasty", "satir","futurolog", "satyr"]
   },
   {
     "id": 7,
-    "question": "Name one satirical profession or invention mentioned in the congress materials.",
-    "expected_keywords": [
-      "inwigilator",
-      "zakazywacz",
-      "rozdzielacz",
-      "zatykacz",
-      "inwigilator matrymonialny",
-      "przepustki kopulacyjne",
-      "przepustka kopulacyjna"
-    ]
+    "question": "Podaj nazwę jednego satyrycznego zawodu lub wynalazku wspomnianego w materiałach kongresowych.",
+    "expected_keywords": ["inwigil", "zakazywa", "rozdziel", "zatyka", "matrymonialn", "przepustk", "kopulacyjn"]
   },
   {
     "id": 8,
-    "question": "How does Lem use the congress to critique scientific conferences or professionalization?",
-    "expected_keywords": [
-      "satir",
-      "krit",
-      "krytyk",
-      "konferenc",
-      "profesjonaliz",
-      "gości",
-      "guests",
-      "conference"
-    ]
+    "question": "Jak Lem wykorzystuje kongres do krytyki konferencji naukowych lub nadmiernej profesjonalizacji?",
+    "expected_keywords": ["saty", "satyry", "krytyk", "konferenc", "profesjonaliz", "biurokr", "specjaliz"]
+
   },
   {
     "id": 9,
-    "question": "Identify a philosophical question raised in the book related to futurology or prediction limits.",
-    "expected_keywords": [
-      "futurolog",
-      "prediction",
-      "predykcj",
-      "ograniczeni",
-      "ethic",
-      "etycz"
-    ]
+    "question": "Podaj przykład filozoficznego pytania postawionego w książce dotyczącego futurologii lub ograniczeń przewidywania przyszłości.",
+    "expected_keywords": ["futurolog", "przewidy", "prognoz", "granic", "kontrolować przyszłość"]
+
   },
   {
     "id": 10,
-    "question": "Does the book warn against or advocate applying predictive science to society? Give a short supporting snippet if available.",
-    "expected_keywords": [
-      "ostrzega",
-      "warn",
-      "przestrzega",
-      "popiera",
-      "advocate",
-      "advocates",
-      "oppose"
-    ]
+    "question": "Czy książka ostrzega przed stosowaniem nauk przewidywania w społeczeństwie, czy je popiera? Uzasadnij krótko, jeśli to możliwe.",
+    "expected_keywords": ["ostrzeg", "przestrzeg", "niebezpiecz", "zagro", "społecz", "spolecz", "prognoz"]
+
   },
   {
     "id": 11,
     "question": "W jakim hotelu odbywał się Kongres?",
-    "expected_keywords": ["Hilton", "hilton"]
+    "expected_keywords": ["hilton"]
   },
   {
     "id": 12,
     "question": "Jakie metody zahamowania ekplozji demograficznej zaproponował Norman Youhas z delegacji USA?",
-    "expected_keywords": ["zniechęcanie perswazyjne", "policyjne", "deerotyzację", "przymusową celibatyzację",
-    "onanizację", "subordymację", "kastrację", "deerotyzacja", "przymusowa celibatyzacja",
-      "onanizacja", "subordymacja", "kastracja"]
+    "expected_keywords": ["zniechec", "zniechęc", "perswaz", "policyjn", "deerotyz", "celibat", "onaniz", "subordym", "kastr"]
   },
   {
     "id": 13,
@@ -118,31 +70,62 @@
   {
     "id": 14,
     "question": "Jaką rolę pełnił Trottelreiner?",
-    "expected_keywords": ["opiekun", "towarzysz", "prowadził", "kongres", "tłumacz"]
+    "expected_keywords": ["opiekun", "towarzysz", "prowadzi", "kongres", "tłumacz", "tlumacz"]
   },
   {
     "id": 15,
     "question": "Jakie było pierwsze dziwne zjawisko, które Tichy zauważył w hotelu?",
-    "expected_keywords": ["przepustki", "kopulacyjne", "hotel", "biurokr", "absurd"]
+    "expected_keywords": ["przepustk", "kopulacyjn", "hotel", "biurokr", "absurd"]
   },
   {
     "id": 16,
     "question": "Co spowodowało chaos w trakcie obrad kongresu?",
-    "expected_keywords": ["atak", "chemicz", "halucyn", "gaz", "zamieszki", "chaos"]
+    "expected_keywords": ["atak", "chemicz", "halucyn", "gaz", "zamieszki"]
   },
   {
-    "id": 17,
+   "id": 17,
     "question": "Dlaczego Tichy kwestionuje własne postrzeganie rzeczywistości?",
-    "expected_keywords": ["iluzj", "halucyn", "postrzegani", "chemikali", "rzeczywistość", "wątpliwość"]
+    "expected_keywords": ["iluzj", "halucyn", "chemiczn", "tpliw"]
+
   },
   {
     "id": 18,
     "question": "Co symbolizuje miasto Nounas, w którym rozgrywa się część akcji?",
-    "expected_keywords": ["nounas", "miasto", "kontrol", "psychochem", "fasadow", "propagand"]
+    "expected_keywords": ["kontrol", "psychochemi", "fasadow", "propagand", "manipulacj"]
   },
   {
     "id": 19,
     "question": "Kim był doktor Youhas i jaką ideę przedstawiał?",
-    "expected_keywords": ["naukowiec", "zawod", "rozdzielacz", "specjalizacj"]
+    "expected_keywords": ["naukow", "zawod", "rozdziel", "specjaliz"]
+  },
+  {
+    "id": 20,
+    "question": "Co zobaczył Tichy po użyciu pierwszej fiolki z odhalucynatorem?",
+    "expected_keywords": ["trup", "zmar", "martw", "poleg", "ofiar", "cial", "ciał"]
+  },
+  {
+    "id": 21,
+    "question": "Jaki obraz świata ujawnił się po użyciu drugiej fiolki?",
+    "expected_keywords": ["nędz", "nedz", "ruin", "ubóstwo", "ubostwo", "łaman", "laman", "policyjn", "kontrol"]
+  },
+  {
+    "id": 22,
+    "question": "Co było najbardziej przerażającym odkryciem po trzeciej fiolce?",
+    "expected_keywords": ["zmutowan", "potwor", "zniekszta", "degeneracj", "prawdziw"]
+  },
+  {
+    "id": 23,
+    "question": "Dlaczego władza stosowała warstwowe „zlisowanie” rzeczywistości chemicznej?",
+    "expected_keywords": ["kontrol", "spok", "ukry", "katastrof", "propagand"]
+  },
+  {
+    "id": 24,
+    "question": "Co stało się z miastem po zdjęciu wszystkich warstw halucynacji?",
+    "expected_keywords": ["zniszczon", "skażon", "skazon", "ruin", "pustkowi", "opuszczon"]
+  },
+  {
+    "id": 25,
+    "question": "Jak zareagował Tichy na ostateczne odkrycie prawdziwej rzeczywistości?",
+    "expected_keywords": ["załaman", "zalaman", "zwątpi", "zwatpi", "przeraż", "przeraz", "nie wierzy", "szok"]
   }
 ]

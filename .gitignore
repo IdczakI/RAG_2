@@ -208,6 +208,7 @@ __marimo__/
 
 potential_versions
 chroma_db
+bd_old
 
 # Local IDE config
 .idea/workspace.xml
