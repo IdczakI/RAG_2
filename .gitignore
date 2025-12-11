@@ -209,6 +209,7 @@ __marimo__/
 potential_versions
 chroma_db
 bd_old
+chroma_mati_db
 
 # Local IDE config
 .idea/workspace.xml
