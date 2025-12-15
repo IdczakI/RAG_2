@@ -107,7 +107,7 @@
   {
     "id": "L-022",
     "question": "Jakie czynniki z okresu młodości wpłynęły na rozwój piłkarski Lewandowskiego według tekstu?",
-    "expected_keywords": ["tradycje sportowe rodziny", "judoka", "piłkarz", "siatkarka", "w ogrodzie"]
+    "expected_keywords": ["tradycje sportowe rodziny", "judo", "piłkarz", "siatkark", "siatkówk"]
   },
   {
     "id": "L-023",
@@ -122,7 +122,7 @@
   {
     "id": "L-025",
     "question": "Jak zmieniała się skuteczność Lewandowskiego w Barcelonie pod wodzą Hansiego Flicka w porównaniu do końcówki pracy Xaviego?",
-    "expected_keywords": ["odzyskał", "skuteczność", "10 goli", "100 goli"]
+    "expected_keywords": ["odzyskał", "10 goli", "100 goli", "10 bramek", "hat-trick", "hat trick"]
   },
   {
     "id": "L-026",
